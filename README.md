@@ -1,8 +1,4 @@
-# Node.js & Passport Login
-
-This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
-
-### Version: 2.0.0
+Online grocery website built on Mongo DB to understand the dynamic schema of unstructured data.
 
 ### Usage
 
